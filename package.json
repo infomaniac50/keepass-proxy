@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/infomaniac50/keepass-remote/issues"
   },
-  "homepage": "https://github.com/infomaniac50/keepass-remote"
+  "homepage": "https://github.com/infomaniac50/keepass-remote",
+  "dependencies": {
+    "http-proxy": "^1.1.2"
+  }
 }
