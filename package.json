@@ -1,0 +1,25 @@
+{
+  "name": "keepass-remote",
+  "version": "0.0.1",
+  "description": "Proxies requests from remote hosts to KeePassHttp.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/infomaniac50/keepass-remote.git"
+  },
+  "keywords": [
+    "keepass",
+    "http",
+    "remote",
+    "proxy"
+  ],
+  "author": "Derek Chafin",
+  "license": "CC-BY-SA-3.0",
+  "bugs": {
+    "url": "https://github.com/infomaniac50/keepass-remote/issues"
+  },
+  "homepage": "https://github.com/infomaniac50/keepass-remote"
+}
